@@ -1,0 +1,3 @@
+# Dependencia de la API oficial de Meshtastic para Python.
+# Versión mínima de la biblioteca Meshtastic solicitada para este proyecto.
+meshtastic>=2.7.11
